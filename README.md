@@ -1,4 +1,4 @@
-<img width="1287" height="870" alt="изображение" src="https://github.com/user-attachments/assets/b17bc7ea-52c7-46fc-a588-aa0e31139916" />
+<img width="1287" height="863" alt="изображение" src="https://github.com/user-attachments/assets/b36be0e7-78a5-4464-9ed1-7e35604581de" />
 
 # What is it
 SkoliOS is a small UEFI application [with a crooked spine]. I'm not a pro in osdev, this project is made to proof that it is possible to make an UEFI application **using dub on Windows**.
