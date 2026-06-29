@@ -22,3 +22,5 @@ docs/
 
 # Code coverage
 *.lst
+bin/EFI/BOOT/BOOTX64.efi
+bin/NvVars
