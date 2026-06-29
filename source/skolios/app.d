@@ -1,4 +1,4 @@
-import skoleos.console;
+import skolios.console;
 
 import uefi;
 
@@ -13,7 +13,7 @@ extern(C) EFI_STATUS efi_main(EFI_HANDLE handle, EFI_SYSTEM_TABLE* systemTable)
 
 	console.clearScreen();
 	console.log("Hello, World!");
-	console.log("SkoleOS v1.0.0 meets you!");
+	console.log("SkoliOS v1.0.0 meets you!");
 	console.log("Firmware vendor is: ", false);
 	console.logAtPtr(systemTable.FirmwareVendor);	
 

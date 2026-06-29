@@ -1,4 +1,4 @@
-module skoleos.console;
+module skolios.console;
 import core.stdc.stdlib;
 import uefi;
 
