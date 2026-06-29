@@ -8,7 +8,7 @@ SkoleOS is a small UEFI application [with a crooked spine]. I'm not a pro in osd
 * dub
 * uefi-d
 * Qemu
-* OVMF is already in the repositrory!!!
+* OVMF (already included!!!)
 
 # Building
 * runqemu.bat -- run in debug mode
