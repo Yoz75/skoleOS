@@ -1,7 +1,7 @@
 <img width="1287" height="863" alt="изображение" src="https://github.com/user-attachments/assets/b36be0e7-78a5-4464-9ed1-7e35604581de" />
 
 # What is it
-SkoliOS is a small UEFI application. I'm not a pro in osdev, this project is made to proof that it is possible to make an UEFI application **using dub on Windows**.
+SkoliOS is a small UEFI application. I'm not a pro in osdev, this project is made to proof that it is possible to make an UEFI application **using dub and Windows**.
 
 # Dependencies
 * Windows (actually it is possible to modify the dub.json file and run it on Linux)
