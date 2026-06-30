@@ -13,3 +13,7 @@ SkoliOS is a small UEFI application. I'm not a pro in osdev, this project is mad
 # Building
 * runqemu.bat -- run in debug mode
 * runqemur.bat -- run in release mode
+<br>
+<br>
+
+The github release is just a zip archive that contains the EFI/BOOT/BOOTX64.efi file. You can use it to manually run QEMU
